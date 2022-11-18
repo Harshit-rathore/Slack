@@ -1,5 +1,7 @@
-<h1>Slack - A Messaging application</h1>
-Slack is an instant team messaging application based on React technology .It allow communication to be more direct and transparent across the Platform .This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h0>Slack - A Messaging application</h0>
+Slack is an instant team messaging application based on React and firebase technology .It allow communication to be more direct and transparent across the Platform.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
